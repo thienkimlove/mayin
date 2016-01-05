@@ -112,7 +112,7 @@
 
                             </form>
 
-                            @include('errors.list')
+                           
 
                         </div>
                     </div>
