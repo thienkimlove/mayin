@@ -1,0 +1,38 @@
+html,body{height:100%}
+.cf:before,.cf:after{content:"";display:table}.cf:after{clear:both}
+*{padding: 0; margin: 0}
+a,a:focus{text-decoration: none}
+.rs{margin:0;padding:0} h1.rs,h2.rs,h3.rs,h4.rs{font-size:100%;font-weight:bold}ul.rs{list-style:none} h1, h2, h3, h4{margin: 0; padding: 0}
+.rsbs,.rsbs:after,.rsbs:before{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}
+img{border:none} a,input{outline:none} a{color:#00f} a,a:hover{text-decoration:none}
+.fb{font-weight:bold}
+li{list-style: none}ul{padding: 0;margin: 0;}
+.pa{position:absolute}.pr{position:relative;}.px{position: fixed;}
+.fl{float:left}.fr{float:right}
+.tr{text-align:right}.tc{text-align:center}
+.fixCen{width: 1024px; margin: 0 auto;position: relative;}
+.cl{clear: both} .z10 {z-index: 10;}
+body{font-family: time-new-roman;}
+.block-1{background: url("../images/background.jpg")no-repeat;width: 892px;height: 2827px;padding: 190px 114px 0 0px;text-align: center;border: thin solid;margin: auto;display: block;}
+.block-1 .qrcode{background: url("../images/qrcode.jpg")no-repeat;width: 356px;height: 361px;margin: 25px auto 64px auto;}
+.block-1 .company{font-size: 37.5px;margin-bottom: 45px;line-height: 45px;}
+.block-1 .company span{display: block;}
+.block-1 .company span:nth-child(2){font-size: 37px;}
+.block-1 .captain{font-size: 45.83px;margin-top: -10px;line-height: 97px;}
+.block-1 .captain strong{font-size: 66.67px;}
+.block-1 .code{font-size: 50px;}
+.block-1 .come-leave{font-size: 50px;text-align: right;padding-right: 114px;}
+.block-1 .come-leave>div{display: inline-block;padding-right: 97px;margin-bottom: 60px;margin-top: 42px;line-height: 96px;}
+.block-1 .come-leave>div:nth-child(1){width: 37%;}
+.block-1 .come-leave>div:nth-child(2){width: 31%;}
+.block-1 .come-leave .sm-text{font-size: 50px;}
+.block-1 .info{font-size: 41.67px;text-align: left;padding: 0 83px;line-height: 65px;height: 600px;margin-top: -20px;}
+.block-1 .info>div{float: left;}
+.block-1 .info>div:first-child{width: 47%;}
+.block-1 .info>div:nth-child(2){width: 53%;}
+.block-1 .info>div>label{display: block;}
+.block-1 .info label.sp, label.toa{display: inline-block !important;}
+.block-1 .info label.cho, label.number{display: inline-block !important;}
+.block-1 .info .title{font-weight: bold;}
+.block-1 .note{font-size: 41.62px;font-style: italic;padding: 0 109px 0 90px;text-align: left;line-height: 50px;}
+.block-1 .note .sm-text{font-size: 43px;}
