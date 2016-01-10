@@ -13,7 +13,7 @@ li{list-style: none}ul{padding: 0;margin: 0;}
 .fixCen{width: 1024px; margin: 0 auto;position: relative;}
 .cl{clear: both} .z10 {z-index: 10;}
 body{font-family: time-new-roman;}
-.block-1{background: url("../images/background.jpg")no-repeat;width: 892px;height: 2827px;padding: 190px 114px 0 0px;text-align: center;border: thin solid;margin: auto;display: block;}
+.block-1{background: none no-repeat;width: 892px;height: 2827px;padding: 190px 114px 0 0px;text-align: center;border: thin solid;margin: auto;display: block;}
 .block-1 .qrcode{background: url("../images/qrcode.jpg")no-repeat;width: 356px;height: 361px;margin: 25px auto 64px auto;}
 .block-1 .company{font-size: 37.5px;margin-bottom: 45px;line-height: 45px;}
 .block-1 .company span{display: block;}
